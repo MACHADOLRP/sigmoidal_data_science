@@ -7,7 +7,7 @@ Meu portifólio de projetos de data science
 </p>
 
 # Leonardo Machado
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Iniciante em data science* Auditor fiscal do Estado do Ceará e bacharel em Direito </sub>
 
 As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
 
