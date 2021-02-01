@@ -9,7 +9,7 @@ Meu portifólio de projetos de data science
 # Leonardo Machado
 <sub>*Iniciante em data science* Auditor fiscal do Estado do Ceará e bacharel em Direito </sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skil
 
 My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
 
@@ -19,7 +19,6 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 * [Blog](http://sigmoidal.ai)
 * [LinkedIn](https://www.linkedin.com/in/carlosfab)
 * [Medium](https://www.medium.com)
-
 
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
